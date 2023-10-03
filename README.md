@@ -1,0 +1,9 @@
+# dgdrumkits
+My collection of DrumGizmo kits
+
+### The Brake Crate Kit (Drumdrops)
+https://www.drum-drops.com/collections/drum-samples/products/the-break-crate-kit
+
+### The Jazz Funk Kit (orangetree samples)
+upsampled to 48kHz
+https://www.orangetreesamples.com/blog/free-jazz-funk-drum-sample-library
