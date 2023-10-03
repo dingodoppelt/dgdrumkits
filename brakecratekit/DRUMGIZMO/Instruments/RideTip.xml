@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="RideTip">
+    <samples>
+        <sample name="RideTip-1" power="1.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 01.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 01.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-2" power="2.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 02.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 02.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-3" power="3.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 03.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 03.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-4" power="4.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 04.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 04.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-5" power="5.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 05.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 05.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-6" power="6.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 06.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 06.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-7" power="7.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 07.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 07.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-8" power="8.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 08.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 08.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-9" power="9.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 09.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 09.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-10" power="10.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 10.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 10.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-11" power="11.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 11.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 11.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideTip-12" power="12.0" normalized="true">
+            <audiofile
+              channel="RideL"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 12.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../Cymbals/Ride/Ride Tip/Ride Tip 12.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>

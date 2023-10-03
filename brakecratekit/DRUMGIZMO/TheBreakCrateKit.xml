@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drumkit
+  name="TheBreakCrateKit"
+  description=""
+  samplerate="44100">
+    <channels>
+        <channel name="FloorTomL1"/>
+        <channel name="FloorTomR1"/>
+        <channel name="HiHatL"/>
+        <channel name="HiHatR"/>
+        <channel name="KickL"/>
+        <channel name="KickR"/>
+        <channel name="OHL"/>
+        <channel name="OHR"/>
+        <channel name="RideL"/>
+        <channel name="RideR"/>
+        <channel name="RoomL"/>
+        <channel name="RoomR"/>
+        <channel name="SnareL"/>
+        <channel name="SnareR"/>
+        <channel name="TomL1"/>
+        <channel name="TomR1"/>
+    </channels>
+    <instruments>
+        <instrument name="Snare" file="Instruments/Snare.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="KickDeep" file="Instruments/KickDeep.xml">
+            <channelmap in="KickL" out="KickL"/>
+            <channelmap in="KickR" out="KickR"/>
+        </instrument>
+        <instrument name="Kick" file="Instruments/Kick.xml">
+            <channelmap in="KickL" out="KickL"/>
+            <channelmap in="KickR" out="KickR"/>
+        </instrument>
+        <instrument name="Rimshot" file="Instruments/Rimshot.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="Sidestick" file="Instruments/Sidestick.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="SnareOff" file="Instruments/SnareOff.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="RackTom" file="Instruments/RackTom.xml">
+            <channelmap in="TomL1" out="TomL1"/>
+            <channelmap in="TomR1" out="TomR1"/>
+        </instrument>
+        <instrument name="FloorTom" file="Instruments/FloorTom.xml">
+            <channelmap in="FloorTomL1" out="FloorTomL1"/>
+            <channelmap in="FloorTomR1" out="FloorTomR1"/>
+        </instrument>
+        <instrument name="ClapStack" file="Instruments/ClapStack.xml">
+            <channelmap in="OHL" out="OHL"/>
+            <channelmap in="OHR" out="OHR"/>
+        </instrument>
+        <instrument
+          name="HiHatClosedTip"
+          group="hihat"
+          file="Instruments/HiHatClosedTip.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatClosedShoulder"
+          group="hihat"
+          file="Instruments/HiHatClosedShoulder.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatHalfOpen"
+          group="hihat"
+          file="Instruments/HiHatHalfOpen.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatOpen"
+          group="hihat"
+          file="Instruments/HiHatOpen.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatPedal"
+          group="hihat"
+          file="Instruments/HiHatPedal.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument name="RideTip" file="Instruments/RideTip.xml">
+            <channelmap in="RideL" out="RideL"/>
+            <channelmap in="RideR" out="RideR"/>
+        </instrument>
+        <instrument name="RideBell" file="Instruments/RideBell.xml">
+            <channelmap in="RideL" out="RideL"/>
+            <channelmap in="RideR" out="RideR"/>
+        </instrument>
+        <instrument name="RideShoulder" file="Instruments/RideShoulder.xml">
+            <channelmap in="RideL" out="RideL"/>
+            <channelmap in="RideR" out="RideR"/>
+        </instrument>
+        <instrument name="Crash" file="Instruments/Crash.xml">
+            <channelmap in="RoomL" out="RoomL"/>
+            <channelmap in="RoomR" out="RoomR"/>
+        </instrument>
+    </instruments>
+</drumkit>

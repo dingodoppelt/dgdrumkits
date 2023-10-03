@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<drumkit name="JazzFunkKit" samplerate="48000">
+  <!--
+DrumGizmo drumkit created by 'genDrumkit'
+Author: Peter Zenk 
+Email:  email@peterzenk.de 
+-->
+  <metadata>
+    <version>0.0.0</version>
+    <title>JazzFunkKit</title>
+    <logo src=""/>
+    <description>Low Kick 20x14 Gretsch - Aquarian modern vintage on both sides; felt strips on both sides. Medium DW felt beater.
+
+Kick 15x15 Ludwig - 30's era mahogany marching snare with its original calf-skin head on the resonant side; Remo pin stripe on the batter side. Medium DW felt beater.
+
+Snare 14x5.5 Ludwig - 20's era (rare; with no badge) chrome over brass 8-lug. Fiberskyn Ambassador head on top; Diplomat snare-side bottom.
+
+Rack Tom 12x8 Gretsch - 6-ply maple/gum satin pink flame wrap; stop-sign badge. Fiberskyn Diplomat head on top; clear Diplomat head on bottom.
+
+Floor Tom 14x14 Gretsch - Coated ambassador head on top; Aquarian Classic Clear on bottom.
+
+Hi-hat Top: 13.75'' K. Zildjian - Istanbul 60's era.
+Bottom: 14'' A. Zildjian - Istanbul 70's era top hat used as a bottom hat.
+
+Ride 1 22'' Istanbul Agop - Jazz ride special edition TW prototype.
+
+Ride 2 21'' Bosphorus - Flat ride Master's series.
+
+WAV samples, Kontakt and SFZ format available at:
+www.orangetreesamples.com/blog/free-jazz-funk-drum-sample-library
+
+Hydrogen drumkit format by Oddtime.
+
+License Agreement:
+Orange Tree Samples produced all of these sounds and retains all rights to these sounds.
+You may use the samples included for commercial or non-commercial music productions. You do not need to credit Orange Tree Samples.
+This license to use the sounds granted to the original purchaser of the sounds and is not transferable without the consent of Orange Tree Samples.
+You may not create any other sample-based product that uses sounds from Orange Tree Samples. This includes making other sample libraries that use Orange Tree Samples sounds as source material.
+You may not copy, edit, distribute or sell the original soundsets without the written permission of Orange Tree Samples.
+The software is provided to the user "as is". Orange Tree Samples makes no warranties, either express or implied, with respect to the software and associated materials provided to the user, including but not limited to any warranty of fitness for a particular purpose. Orange Tree Samples does not warrant that the functions contained in the software will meet your requirements, or that the operation of the software will be uninterrupted or error-free, or that defects in the software will be corrected.
+Orange Tree Samples does not warrant or make any representations regarding the use or the results of the use of the software or any documentation provided therewith in terms of their correctness, accuracy, reliability, or otherwise. No information or advice given by Orange Tree Samples shall create a warranty or in any way increase the scope of this warranty.
+Orange Tree Samples is not liable for any claims or damages whatsoever, including property damage, personal injury, intellectual property infringement, loss of profits, or interruption of business, or for any special, consequential or incidental damages, however caused.
+
+Copyright 2008 Orange Tree Samples, All Rights Reserved
+Website: http://www.orangetreesamples.com
+Email: admin@orangetreesamples.com</description>
+    <license>Copyright 2008 Orange Tree Samples, All Rights Reserved</license>
+    <notes>JazzFunkKit</notes>
+    <author>Orange Tree Samples / Oddtime</author>
+    <email/>
+    <website>author_website</website>
+  </metadata>
+  <channels>
+    <channel name="kick_R"/>
+    <channel name="kick_L"/>
+    <channel name="toms_R"/>
+    <channel name="toms_L"/>
+    <channel name="snare_R"/>
+    <channel name="snare_L"/>
+    <channel name="hats_R"/>
+    <channel name="hats_L"/>
+    <channel name="ride_R"/>
+    <channel name="ride_L"/>
+    <channel name="crash_R"/>
+    <channel name="crash_L"/>
+  </channels>
+  <instruments>
+    <instrument name="kick - sn off" file="kick - sn off/kick - sn off.xml">
+      <channelmap in="kick - sn off_R" out="kick_R" main="true"/>
+      <channelmap in="kick - sn off_L" out="kick_L" main="true"/>
+    </instrument>
+    <instrument name="kick - sn on" file="kick - sn on/kick - sn on.xml">
+      <channelmap in="kick - sn on_R" out="kick_R" main="true"/>
+      <channelmap in="kick - sn on_L" out="kick_L" main="true"/>
+    </instrument>
+    <instrument name="bop kick - sn off" file="bop kick - sn off/bop kick - sn off.xml">
+      <channelmap in="bop kick - sn off_R" out="toms_R" main="true"/>
+      <channelmap in="bop kick - sn off_L" out="toms_L" main="true"/>
+    </instrument>
+    <instrument name="bop kick - sn on" file="bop kick - sn on/bop kick - sn on.xml">
+      <channelmap in="bop kick - sn on_R" out="toms_R" main="true"/>
+      <channelmap in="bop kick - sn on_L" out="toms_L" main="true"/>
+    </instrument>
+    <instrument name="snare - on" file="snare - on/snare - on.xml">
+      <channelmap in="snare - on_R" out="snare_R" main="true"/>
+      <channelmap in="snare - on_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="rimshot - sn on" file="rimshot - sn on/rimshot - sn on.xml">
+      <channelmap in="rimshot - sn on_R" out="snare_R" main="true"/>
+      <channelmap in="rimshot - sn on_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="stick - sn on" file="stick - sn on/stick - sn on.xml">
+      <channelmap in="stick - sn on_R" out="snare_R" main="true"/>
+      <channelmap in="stick - sn on_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="xstick - sn on" file="xstick - sn on/xstick - sn on.xml">
+      <channelmap in="xstick - sn on_R" out="snare_R" main="true"/>
+      <channelmap in="xstick - sn on_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="snare - off" file="snare - off/snare - off.xml">
+      <channelmap in="snare - off_R" out="snare_R" main="true"/>
+      <channelmap in="snare - off_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="rimshot - sn off" file="rimshot - sn off/rimshot - sn off.xml">
+      <channelmap in="rimshot - sn off_R" out="snare_R" main="true"/>
+      <channelmap in="rimshot - sn off_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="stick - sn off" file="stick - sn off/stick - sn off.xml">
+      <channelmap in="stick - sn off_R" out="snare_R" main="true"/>
+      <channelmap in="stick - sn off_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="xstick - sn off" file="xstick - sn off/xstick - sn off.xml">
+      <channelmap in="xstick - sn off_R" out="snare_R" main="true"/>
+      <channelmap in="xstick - sn off_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="HH - pedal" file="HH - pedal/HH - pedal.xml" group="group_0">
+      <channelmap in="HH - pedal_R" out="hats_R" main="true"/>
+      <channelmap in="HH - pedal_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH - closed" file="HH - closed/HH - closed.xml" group="group_0">
+      <channelmap in="HH - closed_R" out="hats_R" main="true"/>
+      <channelmap in="HH - closed_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH - closed side" file="HH - closed side/HH - closed side.xml" group="group_0">
+      <channelmap in="HH - closed side_R" out="hats_R" main="true"/>
+      <channelmap in="HH - closed side_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH-open release" file="HH-open release/HH-open release.xml" group="group_0">
+      <channelmap in="HH-open release_R" out="hats_R" main="true"/>
+      <channelmap in="HH-open release_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH-open 1" file="HH-open 1/HH-open 1.xml" group="group_0">
+      <channelmap in="HH-open 1_R" out="hats_R" main="true"/>
+      <channelmap in="HH-open 1_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH-open 2" file="HH-open 2/HH-open 2.xml" group="group_0">
+      <channelmap in="HH-open 2_R" out="hats_R" main="true"/>
+      <channelmap in="HH-open 2_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH-open 3" file="HH-open 3/HH-open 3.xml" group="group_0">
+      <channelmap in="HH-open 3_R" out="hats_R" main="true"/>
+      <channelmap in="HH-open 3_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH-open 4" file="HH-open 4/HH-open 4.xml" group="group_0">
+      <channelmap in="HH-open 4_R" out="hats_R" main="true"/>
+      <channelmap in="HH-open 4_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="HH-open 5" file="HH-open 5/HH-open 5.xml" group="group_0">
+      <channelmap in="HH-open 5_R" out="hats_R" main="true"/>
+      <channelmap in="HH-open 5_L" out="hats_L" main="true"/>
+    </instrument>
+    <instrument name="tom 2 - sn off" file="tom 2 - sn off/tom 2 - sn off.xml">
+      <channelmap in="tom 2 - sn off_R" out="toms_R" main="true"/>
+      <channelmap in="tom 2 - sn off_L" out="toms_L" main="true"/>
+    </instrument>
+    <instrument name="tom 2 - sn on" file="tom 2 - sn on/tom 2 - sn on.xml">
+      <channelmap in="tom 2 - sn on_R" out="toms_R" main="true"/>
+      <channelmap in="tom 2 - sn on_L" out="toms_L" main="true"/>
+    </instrument>
+    <instrument name="tom 1 - sn off" file="tom 1 - sn off/tom 1 - sn off.xml">
+      <channelmap in="tom 1 - sn off_R" out="toms_R" main="true"/>
+      <channelmap in="tom 1 - sn off_L" out="toms_L" main="true"/>
+    </instrument>
+    <instrument name="tom 1 - sn on" file="tom 1 - sn on/tom 1 - sn on.xml">
+      <channelmap in="tom 1 - sn on_R" out="toms_R" main="true"/>
+      <channelmap in="tom 1 - sn on_L" out="toms_L" main="true"/>
+    </instrument>
+    <instrument name="flat ride" file="flat ride/flat ride.xml">
+      <channelmap in="flat ride_R" out="ride_R" main="true"/>
+      <channelmap in="flat ride_L" out="ride_L" main="true"/>
+    </instrument>
+    <instrument name="flat ride - crash" file="flat ride - crash/flat ride - crash.xml">
+      <channelmap in="flat ride - crash_R" out="crash_R" main="true"/>
+      <channelmap in="flat ride - crash_L" out="crash_L" main="true"/>
+    </instrument>
+    <instrument name="ride" file="ride/ride.xml">
+      <channelmap in="ride_R" out="ride_R" main="true"/>
+      <channelmap in="ride_L" out="ride_L" main="true"/>
+    </instrument>
+    <instrument name="ride - crash" file="ride - crash/ride - crash.xml">
+      <channelmap in="ride - crash_R" out="crash_R" main="true"/>
+      <channelmap in="ride - crash_L" out="crash_L" main="true"/>
+    </instrument>
+    <instrument name="ride bell" file="ride bell/ride bell.xml">
+      <channelmap in="ride bell_R" out="ride_R" main="true"/>
+      <channelmap in="ride bell_L" out="ride_L" main="true"/>
+    </instrument>
+    <instrument name="turn snare off" file="turn snare off/turn snare off.xml">
+      <channelmap in="turn snare off_R" out="snare_R" main="true"/>
+      <channelmap in="turn snare off_L" out="snare_L" main="true"/>
+    </instrument>
+    <instrument name="turn snare on" file="turn snare on/turn snare on.xml">
+      <channelmap in="turn snare on_R" out="snare_R" main="true"/>
+      <channelmap in="turn snare on_L" out="snare_L" main="true"/>
+    </instrument>
+  </instruments>
+</drumkit>

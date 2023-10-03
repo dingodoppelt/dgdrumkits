@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<midimap>
+  <map note="56" instr="kick - sn on"/>
+  <map note="57" instr="kick - sn on"/>
+  <map note="60" instr="kick - sn on"/>
+  <map note="58" instr="snare - on"/>
+  <map note="59" instr="snare - on"/>
+  <map note="54" instr="rimshot - sn on"/>
+  <map note="55" instr="xstick - sn on"/>
+  <map note="52" instr="stick - sn on"/>
+  <map note="67" instr="tom 1 - sn on"/>
+  <map note="61" instr="tom 1 - sn on"/>
+  <map note="63" instr="tom 2 - sn on"/>
+  <map note="65" instr="tom 2 - sn on"/>
+  <map note="53" instr="bop kick - sn on"/>
+  <map note="62" instr="bop kick - sn on"/>
+  <map note="66" instr="bop kick - sn on"/>
+  <map note="51" instr="HH - pedal"/>
+  <map note="88" instr="HH - closed"/>
+  <map note="89" instr="HH - closed"/>
+  <map note="104" instr="HH - closed"/>
+  <map note="105" instr="HH - closed"/>
+  <map note="84" instr="HH - closed side"/>
+  <map note="100" instr="HH - closed side"/>
+  <map note="64" instr="HH-open release"/>
+  <map note="85" instr="HH-open 1"/>
+  <map note="86" instr="HH-open 2"/>
+  <map note="90" instr="HH-open 3"/>
+  <map note="91" instr="HH-open 4"/>
+  <map note="87" instr="HH-open 5"/>
+  <map note="96" instr="flat ride"/>
+  <map note="97" instr="flat ride"/>
+  <map note="102" instr="flat ride - crash"/>
+  <map note="103" instr="flat ride - crash"/>
+  <map note="92" instr="ride"/>
+  <map note="93" instr="ride"/>
+  <map note="94" instr="ride"/>
+  <map note="98" instr="ride - crash"/>
+  <map note="99" instr="ride - crash"/>
+  <map note="95" instr="ride bell"/>
+  <map note="114" instr="turn snare on"/>
+  <map note="115" instr="turn snare off"/>
+  <map note="72" instr="kick - sn off"/>
+  <map note="73" instr="kick - sn off"/>
+  <map note="77" instr="tom 1 - sn off"/>
+  <map note="83" instr="tom 1 - sn off"/>
+  <map note="79" instr="tom 2 - sn off"/>
+  <map note="81" instr="tom 2 - sn off"/>
+  <map note="78" instr="bop kick - sn off"/>
+  <map note="82" instr="bop kick - sn off"/>
+  <map note="74" instr="snare - off"/>
+  <map note="75" instr="snare - off"/>
+  <map note="70" instr="rimshot - sn off"/>
+  <map note="71" instr="xstick - sn off"/>
+  <map note="69" instr="stick - sn off"/>
+  <map cc="64" note="51"/>
+</midimap>
