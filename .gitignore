@@ -1,5 +1,6 @@
 /**/*.wav
 /**/*.tar*
+/**/*.txt
 *.conf
 *.tar*
 .directory
