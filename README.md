@@ -1,7 +1,7 @@
 # dgdrumkits
 My collection of DrumGizmo kits
 
-### The Brake Crate Kit (Drumdrops)
+### The Break Crate Kit (Drumdrops)
 https://www.drum-drops.com/collections/drum-samples/products/the-break-crate-kit
 
 ### The Jazz Funk Kit (orangetree samples)
